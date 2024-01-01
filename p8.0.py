@@ -9,7 +9,7 @@ t = 0  #initial time lol
 while True:
     m0 = 16 #string mass
     alpha = 2 #stiffness
-    L0 = 1 #unstretched length - no 0 consistency >:)
+    L0 = 1 #unstretched length
     L = 4 #stretched length
 
     mu = m0 / L #linear density
